@@ -1,0 +1,11 @@
+---
+users:
+  - name: 'TestAcc01' 
+    pass: 'Test01!' 
+    grp: 'sudo'
+  - name: 'TestAcc02' 
+    pass: 'Test02!' 
+    grp: 'users'
+  - name: 'TestAcc03' 
+    pass: 'Test03!' 
+    grp: 'users'
